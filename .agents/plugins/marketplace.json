@@ -1,0 +1,20 @@
+﻿{
+  "name": "kv-study-plugins",
+  "interface": {
+    "displayName": "KV Study Plugins"
+  },
+  "plugins": [
+    {
+      "name": "kv-study-plugin",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kv-study-plugin"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
