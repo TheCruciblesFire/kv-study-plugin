@@ -1,0 +1,27 @@
+﻿{
+  "name": "kv-study-plugin",
+  "version": "3.0.0",
+  "description": "KV Study Plugin r3: a self-contained Scripture-first upstream Study Engine with bundled active study references and bounded audit, formatting, scope-control, sermon/course handoff, and interaction-evaluation skills.",
+  "skills": "./skills/",
+  "author": {
+    "name": "Matt Parker"
+  },
+  "interface": {
+    "displayName": "KV Study Plugin",
+    "shortDescription": "Self-contained Scripture-first study with bounded KV audits and ministry handoffs.",
+    "longDescription": "Self-contained upstream biblical study, research organization, and active Study Engine reference templates with supporting skills for passage faithfulness, source transparency, Scripture formatting, multi-asset scope control, sermon and course handoffs, and interaction evaluation.",
+    "developerName": "Matt Parker",
+    "category": "Productivity",
+    "capabilities": [
+      "Biblical study",
+      "Research organization",
+      "Passage faithfulness audit",
+      "Source transparency audit",
+      "Scripture formatting QA",
+      "Multi-asset scope control",
+      "Sermon handoff",
+      "Course handoff",
+      "Interaction evaluation"
+    ]
+  }
+}
