@@ -1,0 +1,7 @@
+interface:
+  display_name: KV Devotion Builder
+  short_description: Build faithful daily and weekly Scripture-centered devotionals.
+  icon: book-open
+  brand_color: '#1f3a5f'
+policy:
+  allow_implicit_invocation: true

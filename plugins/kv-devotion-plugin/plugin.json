@@ -1,0 +1,21 @@
+{
+  "interface": {
+    "displayName": "KV Devotion Plugin",
+    "shortDescription": "Faithful daily and weekly devotional formation",
+    "longDescription": "Build, plan, revise, and review passage-shaped devotionals with the Story, Worldview, Heart, Way, and Worship & Response rhythm. The plugin keeps research upstream in KV Study Plugin, routes specialist audits to seven bounded Skills, keeps Project-specific reading plans and private permission records outside global plugin knowledge, and routes media, publishing, sermon, and course production to their proper owners.",
+    "developerName": "Matt Parker",
+    "category": "Education & Research",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": "Plan a five-day devotional arc from this passage or approved study handoff. Keep the controlling text primary and do not draft the finished devotionals unless I ask you to build them."
+  },
+  "name": "kv-devotion-plugin",
+  "version": "1.1.1",
+  "description": "Scripture-centered devotional formation from approved passages, study handoffs, and active reading plans, with bounded specialist Skills and clear upstream/downstream routing.",
+  "author": {
+    "name": "Matt Parker"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}
