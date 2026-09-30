@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "kv-study-plugin",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "KV Study Plugin r3: a self-contained Scripture-first upstream Study Engine with bundled active study references and bounded audit, formatting, scope-control, sermon/course handoff, and interaction-evaluation skills.",
   "author": {
     "name": "Matt Parker"
