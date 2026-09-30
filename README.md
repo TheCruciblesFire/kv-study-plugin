@@ -1,6 +1,6 @@
 # KV Devotion Plugin
 
-Production release: **1.1.1**
+Production release: **1.1.2**
 
 Runtime path: `plugins/kv-devotion-plugin/`  
 Marketplace manifest: `.agents/plugins/marketplace.json`
