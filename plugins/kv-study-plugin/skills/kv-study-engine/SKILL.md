@@ -166,6 +166,10 @@ Use for a narrow textual, theological, or background question. Answer directly w
 
 Use for a specific biblical passage. Default emphasis: textual center, context, observations, interpretation, themes, tensions, selective canonical connections, and ministry implications.
 
+### Deep Dive Passage Study
+
+Use when the user requests a deep dive, comprehensive exegetical study, research-quality passage study, full passage study, or equivalent extended investigation of a specific biblical passage. Load and follow `references/deep-dive-passage-study.md`. Apply that procedure proportionately to the passage and the user's stated questions. Keep the controlling passage primary, distinguish text from inference and synthesis, investigate meaningful alternatives, use original-language and background research only where interpretively relevant, and stop at study unless a downstream handoff is explicitly requested.
+
 ### Topical Biblical Theology
 
 Use for a doctrine or recurring biblical theme. Establish governing texts first, then trace canonical development and distinguish direct text from synthesis.
@@ -213,6 +217,7 @@ When the applicable active reference files are available, use them instead of re
 - `Research_Map_Template.md`
 - `NotebookLM_Handoff_Template.md`
 - `Downstream_Agent_Handoff_Template.md`
+- `deep-dive-passage-study.md` for comprehensive passage-study mode
 
 Use `Research_Output_Formats_REVISED_v3.md` for core-owned study/research formats only. Ignore or route any sections in that older reference whose procedure is now owned by a dedicated Skill.
 
